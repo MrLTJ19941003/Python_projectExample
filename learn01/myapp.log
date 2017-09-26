@@ -1,0 +1,14 @@
+06-26 16:57 root         INFO     Jackdaws love my big sphinx of quartz.
+06-26 16:57 myapp.area1  DEBUG    Quick zephyrs blow, vexing daft Jim.
+06-26 16:57 myapp.area1  INFO     How quickly daft jumping zebras vex.
+06-26 16:57 myapp.area2  WARNING  Jail zesty vixen who grabbed pay from quack.
+06-26 16:57 myapp.area2  ERROR    The five boxing wizards jump quickly.
+06-26 16:57 root         ERROR    division by zero
+Traceback (most recent call last):
+  File "F:/xuexi/Python/project/learn01/learnLongging.py", line 31, in main
+    learnLogging.foo('0')
+  File "F:/xuexi/Python/project/learn01/learnLongging.py", line 27, in foo
+    return 10/n
+ZeroDivisionError: division by zero
+06-26 16:58 root         INFO     finally
+06-26 16:58 root         INFO     end
